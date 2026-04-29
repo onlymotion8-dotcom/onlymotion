@@ -1,0 +1,9 @@
+{
+  "name": "OnlyMotion 淳青影像工作室",
+  "description": "專業影像製作與動畫設計作品集網站，展現卓越的視覺敘事能力。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
